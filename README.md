@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### I love coding ❤️
 GitHub es genial
+
+Colores nuevos
 <!--
 **reyesmurojessica/reyesmurojessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
